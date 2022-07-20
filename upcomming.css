@@ -1,0 +1,19 @@
+
+
+.thamb-image{
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.thamb-image h3{
+    margin: 0 10px;
+}
+.thamb-image img{
+    width: 93.04px;
+    height: 56.18px;
+}
+
+.thambnail h3, p{
+    text-align: center;
+}
