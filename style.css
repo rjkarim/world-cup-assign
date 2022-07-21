@@ -411,6 +411,14 @@ hr{
         border-radius: 8px;
         background-color: red;
     }
+
+    footer {
+        margin-top: 50px;
+        width: 100%;
+        height: 400px;
+        background-color: #161616;
+    }
+    
 }
 
 /* Small devices (landscape phones, less than 768px) */
@@ -478,5 +486,13 @@ hr{
     .view-all{
         display: none;
     }
+
+    footer {
+        margin-top: 50px;
+        width: 100%;
+        height: 600px;
+        background-color: #161616;
+    }
+    
 
 }
